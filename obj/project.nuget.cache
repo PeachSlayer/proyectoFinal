@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FrU7tL8M9Dw=",
+  "success": true,
+  "projectFilePath": "/Users/victorjaramillomina/Downloads/programming1/proyectoFinal/proyectoFinal.fsproj",
+  "expectedPackageFiles": [
+    "/Users/victorjaramillomina/.nuget/packages/fsharp.core/10.0.103/fsharp.core.10.0.103.nupkg.sha512"
+  ],
+  "logs": []
+}
