@@ -27,3 +27,4 @@
 /Users/victorjaramillomina/Downloads/programming1/proyectoFinal/obj/Debug/net10.0/proyectoFinal.pdb
 /Users/victorjaramillomina/Downloads/programming1/proyectoFinal/obj/Debug/net10.0/proyectoFinal.genruntimeconfig.cache
 /Users/victorjaramillomina/Downloads/programming1/proyectoFinal/obj/Debug/net10.0/ref/proyectoFinal.dll
+/Users/victorjaramillomina/Downloads/programming1/proyectoFinal/obj/Debug/net10.0/proyectoFinal.sourcelink.json
